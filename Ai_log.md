@@ -13,5 +13,5 @@ F- provide the code and one single line explanation
 a monthly-by-category business report with columns category, month, order_count, total_revenue, avg_revenue (Delivered orders only, month via strftime('%Y-%m', order_date)), grouped by category and month, ordered by category then month; 
 
 # STEP PERFORMED 
-1. Checked the names of the tables 
+1. Checked the names of the tables/ columns
 2. checked if all the required columns are present
