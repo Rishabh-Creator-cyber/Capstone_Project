@@ -1,7 +1,7 @@
 # Capstone_Project
 
 # Script to regenerate synthetic database & raw exports
- - generate_data.py
+- generate_data.py
  
 # Directory containing SQL query files for each task
 ─ 01_foundations.sql                    
@@ -11,7 +11,7 @@
 ─ 03_Reporting.sql
 
 # Part 4 Python analysis & visualization notebook
--Analysis.ipynb                 
+- Analysis.ipynb                 
 
 # Spreadsheet workbook with aggregated models
 ─ Monthly_category_revenue.xlsx      
