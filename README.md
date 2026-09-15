@@ -4,10 +4,8 @@
 - generate_data.py
  
 # Directory containing SQL query files for each task
-─ 01_foundations.sql                    
-
+- 01_foundations.sql                    
 ─ 02_Aggregation_Joins.sql
-
 ─ 03_Reporting.sql
 
 # Part 4 Python analysis & visualization notebook
